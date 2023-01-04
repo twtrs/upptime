@@ -16,7 +16,7 @@ status-website:
   introMessage: "[upptime](https://github.com/upptime/upptime)을 활용해 이 사이트는 만들어졌으며, 5분 주기로 갱신됩니다."
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
