@@ -4,19 +4,19 @@
     "url": "https://twt.rs",
     "icon": "https://icons.duckduckgo.com/ip3/twt.rs.ico",
     "slug": "twt-rs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 881,
-    "timeWeek": 830,
-    "timeMonth": 830,
-    "timeYear": 830,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 839,
+    "timeDay": 886,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 53
     }
   }
 ]
