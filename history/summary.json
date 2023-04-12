@@ -4,7 +4,7 @@
     "url": "https://twt.rs",
     "icon": "https://icons.duckduckgo.com/ip3/twt.rs.ico",
     "slug": "twt-rs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 827,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2023-04-12": 0,
       "2023-04-09": 168,
       "2023-01-19": 27,
       "2023-01-09": 53
