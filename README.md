@@ -1,4 +1,8 @@
-# [📈 Live Status](https://twtrs.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# twtrs/upptime - action is down
+
+due to upstream bug, github actions are completely disabled now.
+
+[📈 Live Status](https://twtrs.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [twt.rs](https://twtrs.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
